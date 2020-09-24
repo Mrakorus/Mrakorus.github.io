@@ -2,7 +2,7 @@
 
 ## Game-Worm (don't working on GitHub)
 
-[Перейти на сайт]: http://Mrakorus.github.io/Game-Worm/ 
+[Перейти на сайт]: http://Mrakorus.github.io/Game-Worm/ "Перейти"
 
 ## SiteByTempl
 
