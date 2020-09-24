@@ -1,6 +1,6 @@
 # Mrakorus.github.io
 
-## Game-Worm (don't working on GitHub)
+## Game-Worm 
 
 [Перейти на сайт](http://Mrakorus.github.io/Game-Worm/ "Перейти")
 
@@ -8,7 +8,7 @@
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl/)
 
-## Game-Worm (don't working on GitHub)
+## SiteByTempl2_corporate-landing
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl2_corporate-landing/)
 
