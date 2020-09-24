@@ -1,0 +1,118 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background: #000;
+}
+.fon-block {
+    display: block;
+    /*flex-direction: row;*/
+    height: 600px;
+    width: 800px;
+    position:relative;
+    background-color: #000;
+    /* z-index: 12; */
+    /* overflow: hidden; */
+    /* background-image: url(/1.png); */
+    border: 1px solid #fff;
+}
+.formtooser{
+    display: flex;
+    /*position: relative;*/
+    flex-direction: column;
+    /*align-items: center;*/
+    /*width: 155px;*/
+    height: 105px;
+    margin: 15px;
+    padding: 5px;
+    background: rgb(135,185,178,0.85);
+    border-radius: 3px;
+}
+.formtooser input{
+margin-bottom: 5px;
+}
+.hide{
+    display: none;
+}
+.fonmenu{
+
+    display:flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 600px;
+    width: 800px;
+    background: rgb(75,73,74,0.85) url(../src/earth-wyrm-trasken.jpg) no-repeat;
+}
+.menu{
+    background: rgb(150,200,183,0.65);
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 5px rgb(120,200,183,0.65);
+}
+.startalone__btn, .netwgame__btn{
+    width: 320px;
+    /*height: 50px;*/
+    font-size: 24px;
+    padding: 20px;
+    cursor: pointer;
+}
+.startalone, .netwgame{
+    margin: 15px;
+}
+
+.onnetgam{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.points{
+    height: 25px;
+    width: 50px;
+    /*z-index: 11;*/
+    background-color: rgb(7, 121, 129);
+    /* : right; */
+    position:absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    /* text-decoration-color: darkorchid;
+    text-emphasis-color: darkorchid; */
+    color: rgb(175, 255, 244);
+    /* background-position-x: 50%; */
+    right: 0px;
+    opacity: 0.55;
+}
+.head{
+    
+    height: 20px;
+    width: 20px;
+    border-radius: 0 40px 60px 0;
+    overflow: hidden;
+    background: url(../src/1.png) no-repeat; 
+    position:absolute;
+    /*z-index: 10;*/
+    
+}
+#WormOpponent{
+    display: none;
+    background: url(../src/2.png) no-repeat;
+}
+
+.body, .body2{
+    
+    height: 20px;
+    width: 20px;
+    background-color: rgb(145, 109, 11);
+    position:absolute;
+    /*z-index: 9;*/
+    /*transform: translate(20px, 20px);*/
+}
+
+.food {
+    border-radius: 10px;
+    height: 20px;
+    width: 20px;
+    background: url(../src/apple.png) rgb(119, 48, 7);
+    position:absolute;
+    }

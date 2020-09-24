@@ -1,0 +1,1 @@
+name=ihor|opponent=andriy|x=240|y=240|bx=300,280,260,240|by=240,240,240,240|bd=1,1,1,1|long=3

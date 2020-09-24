@@ -1,0 +1,1754 @@
+name=ihor|opponent=andriy|x=480|y=20|bx=460,480|by=20,20|bd=3,3|long=115:53:49:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=115:53:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=20|bx=480,500|by=20,20|bd=3,3|long=115:53:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=115:53:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=20|bx=500,520|by=20,20|bd=3,3|long=115:53:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=115:53:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=540|y=20|bx=520,540|by=20,20|bd=3,3|long=115:53:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=500,520|by=0,0|bd=3,3|long=115:53:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=560|y=20|bx=540,560|by=20,20|bd=3,3|long=115:53:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=0|bx=520,540|by=0,0|bd=3,3|long=115:53:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=20|bx=560,580|by=20,20|bd=3,3|long=115:53:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=0|bx=540,560|by=0,0|bd=3,3|long=115:54:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=20|bx=580,600|by=20,20|bd=3,3|long=115:54:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=0|bx=560,580|by=0,0|bd=3,3|long=115:54:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=20|bx=600,620|by=20,20|bd=3,3|long=115:54:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=0|bx=580,600|by=0,0|bd=3,3|long=115:54:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=20|bx=620,640|by=20,20|bd=3,3|long=115:54:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=0|bx=600,620|by=0,0|bd=3,3|long=115:54:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=20|bx=640,660|by=20,20|bd=3,3|long=115:54:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=0|bx=620,640|by=0,0|bd=3,3|long=115:54:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=20|bx=660,680|by=20,20|bd=3,3|long=115:54:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=0|bx=640,660|by=0,0|bd=3,3|long=115:54:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=20|bx=680,700|by=20,20|bd=3,3|long=115:54:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=0|bx=660,680|by=0,0|bd=3,3|long=115:54:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=20|bx=700,720|by=20,20|bd=3,3|long=115:54:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=0|bx=680,700|by=0,0|bd=3,3|long=115:54:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=20|bx=720,740|by=20,20|bd=3,3|long=115:54:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=0|bx=700,720|by=0,0|bd=3,3|long=115:54:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=760|y=20|bx=740,760|by=20,20|bd=3,3|long=115:54:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=0|bx=720,740|by=0,0|bd=3,3|long=115:54:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=20|bx=760,780|by=20,20|bd=3,3|long=115:54:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=0|bx=740,760|by=0,0|bd=3,3|long=115:54:20:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=40|bx=780,780|by=20,40|bd=3,0|long=115:54:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=0|bx=760,740|by=0,0|bd=3,1|long=115:54:22:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=60|bx=780,780|by=40,60|bd=0,0|long=115:54:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=0|bx=740,720|by=0,0|bd=1,1|long=115:54:24:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=80|bx=780,780,780|by=40,60,80|bd=0,0,0|long=215:54:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=0|bx=720,700|by=0,0|bd=1,1|long=115:54:26:000000
+ ||| 
+name=ihor|opponent=andriy|x=760|y=80|bx=780,780,760|by=60,80,80|bd=0,0,1|long=215:54:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=0|bx=700,680|by=0,0|bd=1,1|long=115:54:28:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=80|bx=780,760,740|by=80,80,80|bd=0,1,1|long=215:54:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=0|bx=680,660|by=0,0|bd=1,1|long=115:54:30:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=80|bx=760,740,720|by=80,80,80|bd=1,1,1|long=215:54:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=0|bx=660,640|by=0,0|bd=1,1|long=115:54:32:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=80|bx=740,720,700|by=80,80,80|bd=1,1,1|long=215:54:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=0|bx=640,620|by=0,0|bd=1,1|long=115:54:34:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=80|bx=720,700,680|by=80,80,80|bd=1,1,1|long=215:54:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=0|bx=620,600|by=0,0|bd=1,1|long=115:54:36:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=80|bx=700,680,660|by=80,80,80|bd=1,1,1|long=215:54:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=0|bx=600,580|by=0,0|bd=1,1|long=115:54:38:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=80|bx=680,660,640|by=80,80,80|bd=1,1,1|long=215:54:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=0|bx=580,560|by=0,0|bd=1,1|long=115:54:40:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=80|bx=660,640,620|by=80,80,80|bd=1,1,1|long=215:54:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=0|bx=560,540|by=0,0|bd=1,1|long=115:54:42:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=80|bx=640,620,600|by=80,80,80|bd=1,1,1|long=215:54:43:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=540,520|by=0,0|bd=1,1|long=115:54:44:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=80|bx=620,600,580|by=80,80,80|bd=1,1,1|long=215:54:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=520,500|by=0,0|bd=1,1|long=115:54:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=560|y=80|bx=600,580,560|by=80,80,80|bd=1,1,1|long=215:54:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=500,480|by=0,0|bd=1,1|long=115:54:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=540|y=80|bx=580,560,540|by=80,80,80|bd=1,1,1|long=215:54:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=480,460|by=0,0|bd=1,1|long=115:54:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=80|bx=560,540,520|by=80,80,80|bd=1,1,1|long=215:54:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=0|bx=460,440|by=0,0|bd=1,1|long=115:54:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=80|bx=540,520,500|by=80,80,80|bd=1,1,1|long=215:54:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=0|bx=440,420|by=0,0|bd=1,1|long=115:54:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=480|y=80|bx=520,500,480|by=80,80,80|bd=1,1,1|long=215:54:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=0|bx=420,400|by=0,0|bd=1,1|long=115:54:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=460|y=80|bx=500,480,460|by=80,80,80|bd=1,1,1|long=215:54:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=0|bx=400,380|by=0,0|bd=1,1|long=115:54:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=440|y=80|bx=480,460,440|by=80,80,80|bd=1,1,1|long=215:54:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=380,360|by=0,0|bd=1,1|long=115:55:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=420|y=80|bx=460,440,420|by=80,80,80|bd=1,1,1|long=215:55:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=360,340|by=0,0|bd=1,1|long=115:55:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=400|y=80|bx=440,420,400|by=80,80,80|bd=1,1,1|long=215:55:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=340,320|by=0,0|bd=1,1|long=115:55:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=380|y=80|bx=420,400,380|by=80,80,80|bd=1,1,1|long=215:55:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=320,300|by=0,0|bd=1,1|long=115:55:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=80|bx=400,380,360|by=80,80,80|bd=1,1,1|long=215:55:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=300,280|by=0,0|bd=1,1|long=115:55:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=80|bx=380,360,340|by=80,80,80|bd=1,1,1|long=215:55:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=0|bx=280,260|by=0,0|bd=1,1|long=115:55:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=80|bx=360,340,320|by=80,80,80|bd=1,1,1|long=215:55:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=260,240|by=0,0|bd=1,1|long=115:55:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=80|bx=340,320,300|by=80,80,80|bd=1,1,1|long=215:55:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=0|bx=240,220|by=0,0|bd=1,1|long=115:55:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=80|bx=320,300,280|by=80,80,80|bd=1,1,1|long=215:55:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=0|bx=220,200|by=0,0|bd=1,1|long=115:55:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=80|bx=300,280,260|by=80,80,80|bd=1,1,1|long=215:55:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=200,180|by=0,0|bd=1,1|long=115:55:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=80|bx=280,260,240|by=80,80,80|bd=1,1,1|long=215:55:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=0|bx=180,160|by=0,0|bd=1,1|long=115:55:20:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=80|bx=260,240,220|by=80,80,80|bd=1,1,1|long=215:55:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=0|bx=160,140|by=0,0|bd=1,1|long=115:55:22:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=80|bx=240,220,200|by=80,80,80|bd=1,1,1|long=215:55:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=140,120|by=0,0|bd=1,1|long=115:55:24:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=80|bx=220,200,180|by=80,80,80|bd=1,1,1|long=215:55:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=0|bx=120,100|by=0,0|bd=1,1|long=115:55:26:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=80|bx=200,180,160|by=80,80,80|bd=1,1,1|long=215:55:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=100,80|by=0,0|bd=1,1|long=115:55:28:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=80|bx=180,160,140|by=80,80,80|bd=1,1,1|long=215:55:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=80,60|by=0,0|bd=1,1|long=115:55:30:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=80|bx=160,140,120|by=80,80,80|bd=1,1,1|long=215:55:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=0|bx=60,40|by=0,0|bd=1,1|long=115:55:32:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=80|bx=140,120,100|by=80,80,80|bd=1,1,1|long=215:55:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=0|bx=40,20|by=0,0|bd=1,1|long=115:55:34:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=80|bx=120,100,80|by=80,80,80|bd=1,1,1|long=215:55:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=0|bx=20,0|by=0,0|bd=1,1|long=115:55:36:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=80|bx=100,80,60|by=80,80,80|bd=1,1,1|long=215:55:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=0|bx=0,780|by=0,0|bd=1,1|long=115:55:38:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=80|bx=80,60,40|by=80,80,80|bd=1,1,1|long=215:55:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=0|bx=780,760|by=0,0|bd=1,1|long=115:55:40:000000
+ ||| 
+name=ihor|opponent=andriy|x=20|y=80|bx=60,40,20|by=80,80,80|bd=1,1,1|long=215:55:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=0|bx=760,740|by=0,0|bd=1,1|long=115:55:42:000000
+ ||| 
+name=ihor|opponent=andriy|x=0|y=80|bx=40,20,0|by=80,80,80|bd=1,1,1|long=215:55:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=0|bx=740,720|by=0,0|bd=1,1|long=115:55:44:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=80|bx=20,0,780|by=80,80,80|bd=1,1,1|long=215:55:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=0|bx=720,700|by=0,0|bd=1,1|long=115:55:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=760|y=80|bx=0,780,760|by=80,80,80|bd=1,1,1|long=215:55:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=0|bx=700,680|by=0,0|bd=1,1|long=115:55:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=80|bx=780,760,740|by=80,80,80|bd=1,1,1|long=215:55:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=0|bx=680,660|by=0,0|bd=1,1|long=115:55:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=80|bx=760,740,720|by=80,80,80|bd=1,1,1|long=215:55:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=0|bx=660,640|by=0,0|bd=1,1|long=115:55:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=80|bx=740,720,700|by=80,80,80|bd=1,1,1|long=215:55:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=0|bx=640,620|by=0,0|bd=1,1|long=115:55:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=0|bx=620,600|by=0,0|bd=1,1|long=115:59:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=0|bx=600,580|by=0,0|bd=1,1|long=115:59:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=0|bx=580,560|by=0,0|bd=1,1|long=115:59:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=20|bx=560,560|by=0,20|bd=1,0|long=116:00:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=20|bx=560,540|by=20,20|bd=0,1|long=116:00:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=80|bx=720,700,680|by=80,80,80|bd=1,1,1|long=216:00:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=80|bx=700,680,660|by=80,80,80|bd=1,1,1|long=216:00:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=80|bx=680,660,640|by=80,80,80|bd=1,1,1|long=216:00:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=20|bx=540,520|by=20,20|bd=1,1|long=116:00:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=100|bx=660,640,640|by=80,80,100|bd=1,1,0|long=216:00:05:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=20|bx=520,500|by=20,20|bd=1,1|long=116:00:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=100|bx=640,640,620|by=80,100,100|bd=1,0,1|long=216:00:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=20|bx=500,480|by=20,20|bd=1,1|long=116:00:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=100|bx=640,620,600|by=100,100,100|bd=0,1,1|long=216:00:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=20|bx=480,460|by=20,20|bd=1,1|long=116:00:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=100|bx=620,600,580|by=100,100,100|bd=1,1,1|long=216:00:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=20|bx=460,440|by=20,20|bd=1,1|long=116:00:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=20|bx=440,420|by=20,20|bd=1,1|long=116:00:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=20|bx=420,400|by=20,20|bd=1,1|long=116:00:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=20|bx=400,380|by=20,20|bd=1,1|long=116:00:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=20|bx=380,360|by=20,20|bd=1,1|long=116:01:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=20|bx=360,340|by=20,20|bd=1,1|long=116:01:22:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=20|bx=80,100|by=20,20|bd=3,3|long=116:04:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=116:04:33:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=20|bx=100,120|by=20,20|bd=3,3|long=116:04:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=116:04:35:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=20|bx=120,140|by=20,20|bd=3,3|long=116:04:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=116:04:37:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=20|bx=140,160|by=20,20|bd=3,3|long=116:04:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=116:04:39:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=20|bx=160,180|by=20,20|bd=3,3|long=116:04:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:04:41:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=20|bx=180,200|by=20,20|bd=3,3|long=116:04:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:04:43:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=20|bx=200,220|by=20,20|bd=3,3|long=116:04:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=340,320|by=0,0|bd=3,1|long=116:04:45:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=40|bx=220,220|by=20,40|bd=3,0|long=116:04:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=320,300|by=0,0|bd=1,1|long=116:04:47:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=40|bx=220,240|by=40,40|bd=0,3|long=116:04:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=300,280|by=0,0|bd=1,1|long=116:04:49:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=40|bx=220,240,260|by=40,40,40|bd=0,3,3|long=216:04:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=1,3|long=116:04:51:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=40|bx=240,260,280|by=40,40,40|bd=3,3,3|long=216:04:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=40|bx=260,280,300|by=40,40,40|bd=3,3,3|long=216:04:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=40|bx=280,300,320|by=40,40,40|bd=3,3,3|long=216:04:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:05:13:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:05:15:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=40|bx=320,340,360|by=40,40,40|bd=3,3,3|long=216:05:15:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=40|bx=300,320,340|by=40,40,40|bd=3,3,3|long=216:05:15:000000
+ ||| 
+name=ihor|opponent=andriy|x=380|y=40|bx=340,360,380|by=40,40,40|bd=3,3,3|long=216:05:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=116:05:17:000000
+ ||| 
+name=ihor|opponent=andriy|x=400|y=40|bx=360,380,400|by=40,40,40|bd=3,3,3|long=216:05:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=0|bx=360,380|by=0,0|bd=3,3|long=116:05:19:000000
+ ||| 
+name=ihor|opponent=andriy|x=420|y=40|bx=380,400,420|by=40,40,40|bd=3,3,3|long=216:05:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=0|bx=380,400|by=0,0|bd=3,3|long=116:05:21:000000
+ ||| 
+name=ihor|opponent=andriy|x=440|y=40|bx=400,420,440|by=40,40,40|bd=3,3,3|long=216:05:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=0|bx=400,420|by=0,0|bd=3,3|long=116:05:23:000000
+ ||| 
+name=ihor|opponent=andriy|x=460|y=40|bx=420,440,460|by=40,40,40|bd=3,3,3|long=216:05:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=0|bx=420,440|by=0,0|bd=3,3|long=116:05:25:000000
+ ||| 
+name=ihor|opponent=andriy|x=480|y=40|bx=440,460,480|by=40,40,40|bd=3,3,3|long=216:05:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=116:05:27:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=40|bx=460,480,500|by=40,40,40|bd=3,3,3|long=216:05:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=116:05:29:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=40|bx=480,500,520|by=40,40,40|bd=3,3,3|long=216:05:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=116:05:31:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=116:06:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=40|bx=160,180|by=40,40|bd=3,3|long=116:06:33:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=116:06:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=40|bx=180,200|by=40,40|bd=3,3|long=116:06:35:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=116:06:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=40|bx=200,220|by=40,40|bd=3,3|long=116:06:37:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=116:06:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=40|bx=220,240|by=40,40|bd=3,3|long=116:06:39:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=116:06:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=40|bx=240,260|by=40,40|bd=3,3|long=116:06:41:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=116:06:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=40|bx=260,280|by=40,40|bd=3,3|long=116:06:43:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=116:06:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=40|bx=280,300|by=40,40|bd=3,3|long=116:06:45:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=116:06:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=40|bx=280,300,320|by=40,40,40|bd=3,3,3|long=216:06:47:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:06:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=40|bx=300,320,340|by=40,40,40|bd=3,3,3|long=216:06:49:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:06:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=40|bx=320,340,360|by=40,40,40|bd=3,3,3|long=216:06:51:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=116:06:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=40|bx=340,360,380|by=40,40,40|bd=3,3,3|long=216:06:53:000000
+ ||| 
+name=ihor|opponent=andriy|x=380|y=0|bx=360,380|by=0,0|bd=3,3|long=116:06:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=40|bx=360,380,400|by=40,40,40|bd=3,3,3|long=216:06:55:000000
+ ||| 
+name=ihor|opponent=andriy|x=400|y=0|bx=380,400|by=0,0|bd=3,3|long=116:06:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=40|bx=380,400,420|by=40,40,40|bd=3,3,3|long=216:06:57:000000
+ ||| 
+name=ihor|opponent=andriy|x=420|y=0|bx=400,420|by=0,0|bd=3,3|long=116:06:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=40|bx=400,420,440|by=40,40,40|bd=3,3,3|long=216:06:59:000000
+ ||| 
+name=ihor|opponent=andriy|x=440|y=0|bx=420,440|by=0,0|bd=3,3|long=116:07:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=40|bx=420,440,460|by=40,40,40|bd=3,3,3|long=216:07:01:000000
+ ||| 
+name=ihor|opponent=andriy|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=116:07:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=40|bx=440,460,480|by=40,40,40|bd=3,3,3|long=216:07:03:000000
+ ||| 
+name=ihor|opponent=andriy|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=116:07:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=40|bx=460,480,500|by=40,40,40|bd=3,3,3|long=216:07:05:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=116:07:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=40|bx=480,500,520|by=40,40,40|bd=3,3,3|long=216:07:07:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=0|bx=500,520|by=0,0|bd=3,3|long=116:07:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=40|bx=500,520,540|by=40,40,40|bd=3,3,3|long=216:07:09:000000
+ ||| 
+name=ihor|opponent=andriy|x=540|y=0|bx=520,540|by=0,0|bd=3,3|long=116:07:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=40|bx=520,540,560|by=40,40,40|bd=3,3,3|long=216:07:11:000000
+ ||| 
+name=ihor|opponent=andriy|x=560|y=0|bx=540,560|by=0,0|bd=3,3|long=116:07:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=60|bx=540,560,560|by=40,40,60|bd=3,3,0|long=216:07:13:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=0|bx=560,580|by=0,0|bd=3,3|long=116:07:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=80|bx=560,560,560|by=40,60,80|bd=3,0,0|long=216:07:15:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=0|bx=580,600|by=0,0|bd=3,3|long=116:07:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=80|bx=560,560,540|by=60,80,80|bd=0,0,1|long=216:07:17:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=0|bx=600,620|by=0,0|bd=3,3|long=116:07:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=80|bx=560,540,520|by=80,80,80|bd=0,1,1|long=216:07:19:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=0|bx=620,640|by=0,0|bd=3,3|long=116:07:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=60|bx=540,520,520|by=80,80,60|bd=1,1,2|long=216:07:21:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=0|bx=640,660|by=0,0|bd=3,3|long=116:07:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=40|bx=520,520,520|by=80,60,40|bd=1,2,2|long=216:07:23:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=0|bx=660,680|by=0,0|bd=3,3|long=116:07:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=20|bx=520,520,520|by=60,40,20|bd=2,2,2|long=216:07:25:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=0|bx=680,700|by=0,0|bd=3,3|long=116:07:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=520,520,520|by=40,20,0|bd=2,2,2|long=216:07:27:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=0|bx=700,720|by=0,0|bd=3,3|long=116:07:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=580|bx=520,520,520|by=20,0,580|bd=2,2,2|long=216:07:29:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=0|bx=720,740|by=0,0|bd=3,3|long=116:07:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=560|bx=520,520,520|by=0,580,560|bd=2,2,2|long=216:07:31:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=20|bx=740,740|by=0,20|bd=3,0|long=116:07:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=540|bx=520,520,520|by=580,560,540|bd=2,2,2|long=216:07:33:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=40|bx=740,740|by=20,40|bd=0,0|long=116:07:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=520|bx=520,520,520|by=560,540,520|bd=2,2,2|long=216:07:35:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=60|bx=740,740|by=40,60|bd=0,0|long=116:07:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=500|bx=520,520,520|by=540,520,500|bd=2,2,2|long=216:07:37:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=80|bx=740,740|by=60,80|bd=0,0|long=116:07:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=480|bx=520,520,520|by=520,500,480|bd=2,2,2|long=216:07:39:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=100|bx=740,740|by=80,100|bd=0,0|long=116:07:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=460|bx=520,520,520|by=500,480,460|bd=2,2,2|long=216:07:41:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=100|bx=740,720|by=100,100|bd=0,1|long=116:07:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=440|bx=520,520,520|by=480,460,440|bd=2,2,2|long=216:07:43:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=100|bx=720,700|by=100,100|bd=1,1|long=116:07:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=420|bx=520,520,520|by=460,440,420|bd=2,2,2|long=216:07:45:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=100|bx=700,680|by=100,100|bd=1,1|long=116:07:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=400|bx=520,520,520|by=440,420,400|bd=2,2,2|long=216:07:47:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=100|bx=680,660|by=100,100|bd=1,1|long=116:07:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=380|bx=520,520,520|by=420,400,380|bd=2,2,2|long=216:07:49:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=100|bx=660,640|by=100,100|bd=1,1|long=116:07:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=360|bx=520,520,520|by=400,380,360|bd=2,2,2|long=216:07:51:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=100|bx=640,620|by=100,100|bd=1,1|long=116:07:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=340|bx=520,520,520|by=380,360,340|bd=2,2,2|long=216:07:53:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=100|bx=620,600|by=100,100|bd=1,1|long=116:07:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=320|bx=520,520,520,520|by=380,360,340,320|bd=2,2,2,2|long=316:07:55:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=100|bx=600,580|by=100,100|bd=1,1|long=116:07:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=300|bx=520,520,520,520|by=360,340,320,300|bd=2,2,2,2|long=316:07:57:000000
+ ||| 
+name=ihor|opponent=andriy|x=560|y=100|bx=580,560|by=100,100|bd=1,1|long=116:07:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=280|bx=520,520,520,520|by=340,320,300,280|bd=2,2,2,2|long=316:07:59:000000
+ ||| 
+name=ihor|opponent=andriy|x=540|y=100|bx=560,540|by=100,100|bd=1,1|long=116:08:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=260|bx=520,520,520,520|by=320,300,280,260|bd=2,2,2,2|long=316:08:01:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=100|bx=540,520|by=100,100|bd=1,1|long=116:08:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=240|bx=520,520,520,520|by=300,280,260,240|bd=2,2,2,2|long=316:08:03:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=100|bx=520,500|by=100,100|bd=1,1|long=116:08:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=480|y=100|bx=500,480|by=100,100|bd=1,1|long=116:08:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=460|y=100|bx=480,460|by=100,100|bd=1,1|long=116:08:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=440|y=100|bx=460,440|by=100,100|bd=1,1|long=116:16:32:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=116:22:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=116:22:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=116:22:34:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=116:22:35:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=116:22:36:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=116:22:37:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=116:22:38:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=116:22:39:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:22:40:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=20|bx=120,120|by=0,20|bd=3,0|long=116:22:41:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:22:42:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=20|bx=120,100|by=20,20|bd=0,1|long=116:22:43:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=340,320|by=0,0|bd=3,1|long=116:22:44:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=20|bx=120,100,80|by=20,20,20|bd=0,1,1|long=216:22:45:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=20|bx=320,320|by=0,20|bd=1,0|long=116:22:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=20|bx=100,80,60|by=20,20,20|bd=1,1,1|long=216:22:47:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=40|bx=320,320|by=20,40|bd=0,0|long=116:22:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=40|bx=80,60,60|by=20,20,40|bd=1,1,0|long=216:22:49:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=60|bx=320,320|by=40,60|bd=0,0|long=116:22:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=60|bx=60,60,60|by=20,40,60|bd=1,0,0|long=216:22:51:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=80|bx=320,320|by=60,80|bd=0,0|long=116:22:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=60|bx=60,60,80|by=40,60,60|bd=0,0,3|long=216:22:53:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=80|bx=320,340|by=80,80|bd=0,3|long=116:22:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=60|bx=60,80,100|by=60,60,60|bd=0,3,3|long=216:22:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=80|bx=340,360|by=80,80|bd=3,3|long=116:22:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=60|bx=80,100,120|by=60,60,60|bd=3,3,3|long=216:22:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=80|bx=340,360,380|by=80,80,80|bd=3,3,3|long=216:22:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=60|bx=100,120,140|by=60,60,60|bd=3,3,3|long=216:22:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=80|bx=360,380,400|by=80,80,80|bd=3,3,3|long=216:23:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=60|bx=120,140,160|by=60,60,60|bd=3,3,3|long=216:23:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=80|bx=380,400,420|by=80,80,80|bd=3,3,3|long=216:23:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=80|bx=400,420,440|by=80,80,80|bd=3,3,3|long=216:23:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=0|bx=680,700|by=0,0|bd=3,3|long=116:36:37:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=0|bx=660,680|by=0,0|bd=3,3|long=116:36:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=0|bx=700,720|by=0,0|bd=3,3|long=116:36:39:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=0|bx=680,700|by=0,0|bd=3,3|long=116:36:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=0|bx=720,740|by=0,0|bd=3,3|long=116:36:41:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=0|bx=700,720|by=0,0|bd=3,3|long=116:36:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=0|bx=740,760|by=0,0|bd=3,3|long=116:36:43:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=0|bx=720,740|by=0,0|bd=3,3|long=116:36:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=0|bx=760,780|by=0,0|bd=3,3|long=116:36:45:000000
+ ||| 
+name=ihor|opponent=andriy|x=760|y=0|bx=740,760|by=0,0|bd=3,3|long=116:36:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=0|bx=780,0|by=0,0|bd=3,3|long=116:36:47:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=0|bx=760,780|by=0,0|bd=3,3|long=116:36:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=0|bx=0,20|by=0,0|bd=3,3|long=116:36:49:000000
+ ||| 
+name=ihor|opponent=andriy|x=0|y=0|bx=780,0|by=0,0|bd=3,3|long=116:36:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=116:36:51:000000
+ ||| 
+name=ihor|opponent=andriy|x=20|y=0|bx=0,20|by=0,0|bd=3,3|long=116:36:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=116:36:53:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=116:36:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=116:36:55:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=116:36:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=116:36:57:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=116:36:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=116:36:59:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=116:37:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=116:37:01:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=116:37:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=116:37:03:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=116:37:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=116:37:05:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=116:37:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=116:37:07:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=116:37:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=116:37:09:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=116:37:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=116:37:11:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=116:37:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=116:39:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=60|bx=160,180,200|by=60,60,60|bd=3,3,3|long=216:39:51:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=116:39:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=60|bx=180,200,220|by=60,60,60|bd=3,3,3|long=216:39:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:39:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=60|bx=200,220,240|by=60,60,60|bd=3,3,3|long=216:39:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:39:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=60|bx=220,240,260|by=60,60,60|bd=3,3,3|long=216:39:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=116:39:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=60|bx=240,260,280|by=60,60,60|bd=3,3,3|long=216:39:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=360,340|by=0,0|bd=3,1|long=116:40:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=60|bx=260,280,300|by=60,60,60|bd=3,3,3|long=216:40:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=20|bx=340,340|by=0,20|bd=1,0|long=116:40:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=60|bx=280,300,320|by=60,60,60|bd=3,3,3|long=216:40:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=40|bx=340,340|by=20,40|bd=0,0|long=116:40:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=60|bx=280,300,320,340|by=60,60,60,60|bd=3,3,3,3|long=316:40:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=40|bx=340,360|by=40,40|bd=0,3|long=116:40:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=60|bx=300,320,340,360|by=60,60,60,60|bd=3,3,3,3|long=316:40:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=40|bx=360,380|by=40,40|bd=3,3|long=116:40:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=380|y=60|bx=320,340,360,380|by=60,60,60,60|bd=3,3,3,3|long=316:40:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=40|bx=380,400|by=40,40|bd=3,3|long=116:40:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=400|y=60|bx=340,360,380,400|by=60,60,60,60|bd=3,3,3,3|long=316:40:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=40|bx=400,420|by=40,40|bd=3,3|long=116:40:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=420|y=60|bx=360,380,400,420|by=60,60,60,60|bd=3,3,3,3|long=316:40:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=40|bx=420,440|by=40,40|bd=3,3|long=116:40:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=440|y=60|bx=380,400,420,440|by=60,60,60,60|bd=3,3,3,3|long=316:40:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=40|bx=440,460|by=40,40|bd=3,3|long=116:40:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=460|y=60|bx=400,420,440,460|by=60,60,60,60|bd=3,3,3,3|long=316:40:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=40|bx=460,480|by=40,40|bd=3,3|long=116:40:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=480|y=60|bx=420,440,460,480|by=60,60,60,60|bd=3,3,3,3|long=316:40:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=40|bx=480,500|by=40,40|bd=3,3|long=116:40:20:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=60|bx=440,460,480,500|by=60,60,60,60|bd=3,3,3,3|long=316:40:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=40|bx=500,520|by=40,40|bd=3,3|long=116:40:22:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=60|bx=460,480,500,520|by=60,60,60,60|bd=3,3,3,3|long=316:40:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=40|bx=520,540|by=40,40|bd=3,3|long=116:40:24:000000
+ ||| 
+name=ihor|opponent=andriy|x=540|y=60|bx=480,500,520,540|by=60,60,60,60|bd=3,3,3,3|long=316:40:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=40|bx=540,560|by=40,40|bd=3,3|long=116:40:26:000000
+ ||| 
+name=ihor|opponent=andriy|x=560|y=60|bx=500,520,540,560|by=60,60,60,60|bd=3,3,3,3|long=316:40:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=40|bx=560,580|by=40,40|bd=3,3|long=116:40:28:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=60|bx=520,540,560,580|by=60,60,60,60|bd=3,3,3,3|long=316:40:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=40|bx=580,600|by=40,40|bd=3,3|long=116:40:30:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=60|bx=540,560,580,600|by=60,60,60,60|bd=3,3,3,3|long=316:40:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=40|bx=600,620|by=40,40|bd=3,3|long=116:40:32:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=60|bx=560,580,600,620|by=60,60,60,60|bd=3,3,3,3|long=316:40:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=40|bx=620,640|by=40,40|bd=3,3|long=116:40:34:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=60|bx=580,600,620,640|by=60,60,60,60|bd=3,3,3,3|long=316:40:35:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=40|bx=640,660|by=40,40|bd=3,3|long=116:40:36:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=60|bx=600,620,640,660|by=60,60,60,60|bd=3,3,3,3|long=316:40:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=40|bx=660,680|by=40,40|bd=3,3|long=116:40:38:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=60|bx=620,640,660,680|by=60,60,60,60|bd=3,3,3,3|long=316:40:39:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=40|bx=680,700|by=40,40|bd=3,3|long=116:40:40:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=60|bx=640,660,680,700|by=60,60,60,60|bd=3,3,3,3|long=316:40:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=40|bx=700,720|by=40,40|bd=3,3|long=116:40:42:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=60|bx=660,680,700,720|by=60,60,60,60|bd=3,3,3,3|long=316:40:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=40|bx=720,740|by=40,40|bd=3,3|long=116:40:44:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=60|bx=680,700,720,740|by=60,60,60,60|bd=3,3,3,3|long=316:40:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=40|bx=740,760|by=40,40|bd=3,3|long=116:40:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=760|y=60|bx=700,720,740,760|by=60,60,60,60|bd=3,3,3,3|long=316:40:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=40|bx=760,780|by=40,40|bd=3,3|long=116:40:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=60|bx=720,740,760,780|by=60,60,60,60|bd=3,3,3,3|long=316:40:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=40|bx=780,0|by=40,40|bd=3,3|long=116:40:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=0|y=60|bx=740,760,780,0|by=60,60,60,60|bd=3,3,3,3|long=316:40:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=40|bx=0,20|by=40,40|bd=3,3|long=116:40:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=20|y=60|bx=760,780,0,20|by=60,60,60,60|bd=3,3,3,3|long=316:40:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=40|bx=20,40|by=40,40|bd=3,3|long=116:40:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=60|bx=780,0,20,40|by=60,60,60,60|bd=3,3,3,3|long=316:40:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=40|bx=40,60|by=40,40|bd=3,3|long=116:40:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=60|bx=0,20,40,60|by=60,60,60,60|bd=3,3,3,3|long=316:40:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=40|bx=60,80|by=40,40|bd=3,3|long=116:40:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=60|bx=20,40,60,80|by=60,60,60,60|bd=3,3,3,3|long=316:40:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=40|bx=80,100|by=40,40|bd=3,3|long=116:41:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=60|bx=40,60,80,100|by=60,60,60,60|bd=3,3,3,3|long=316:41:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=40|bx=100,120|by=40,40|bd=3,3|long=116:41:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=60|bx=60,80,100,120|by=60,60,60,60|bd=3,3,3,3|long=316:41:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=40|bx=120,140|by=40,40|bd=3,3|long=116:41:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=60|bx=80,100,120,140|by=60,60,60,60|bd=3,3,3,3|long=316:41:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=40|bx=140,160|by=40,40|bd=3,3|long=116:41:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=60|bx=100,120,140,160|by=60,60,60,60|bd=3,3,3,3|long=316:41:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=40|bx=160,180|by=40,40|bd=3,3|long=116:41:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=60|bx=120,140,160,180|by=60,60,60,60|bd=3,3,3,3|long=316:41:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=40|bx=180,200|by=40,40|bd=3,3|long=116:41:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=60|bx=140,160,180,200|by=60,60,60,60|bd=3,3,3,3|long=316:41:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=40|bx=200,220|by=40,40|bd=3,3|long=116:41:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=60|bx=160,180,200,220|by=60,60,60,60|bd=3,3,3,3|long=316:41:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=40|bx=220,240|by=40,40|bd=3,3|long=116:41:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=60|bx=180,200,220,240|by=60,60,60,60|bd=3,3,3,3|long=316:41:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=40|bx=240,260|by=40,40|bd=3,3|long=116:41:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=60|bx=200,220,240,260|by=60,60,60,60|bd=3,3,3,3|long=316:41:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=40|bx=260,280|by=40,40|bd=3,3|long=116:41:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=60|bx=220,240,260,280|by=60,60,60,60|bd=3,3,3,3|long=316:41:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=40|bx=280,300|by=40,40|bd=3,3|long=116:41:20:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=60|bx=240,260,280,300|by=60,60,60,60|bd=3,3,3,3|long=316:41:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=40|bx=300,320|by=40,40|bd=3,3|long=116:41:22:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=60|bx=260,280,300,320|by=60,60,60,60|bd=3,3,3,3|long=316:41:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=40|bx=320,340|by=40,40|bd=3,3|long=116:41:24:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=60|bx=280,300,320,340|by=60,60,60,60|bd=3,3,3,3|long=316:41:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=40|bx=340,360|by=40,40|bd=3,3|long=116:41:26:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=60|bx=300,320,340,360|by=60,60,60,60|bd=3,3,3,3|long=316:41:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=40|bx=360,380|by=40,40|bd=3,3|long=116:41:28:000000
+ ||| 
+name=ihor|opponent=andriy|x=380|y=60|bx=320,340,360,380|by=60,60,60,60|bd=3,3,3,3|long=316:41:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=40|bx=380,400|by=40,40|bd=3,3|long=116:41:30:000000
+ ||| 
+name=ihor|opponent=andriy|x=400|y=60|bx=340,360,380,400|by=60,60,60,60|bd=3,3,3,3|long=316:41:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=40|bx=400,420|by=40,40|bd=3,3|long=116:41:32:000000
+ ||| 
+name=ihor|opponent=andriy|x=420|y=60|bx=360,380,400,420|by=60,60,60,60|bd=3,3,3,3|long=316:41:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=40|bx=420,440|by=40,40|bd=3,3|long=116:41:34:000000
+ ||| 
+name=ihor|opponent=andriy|x=440|y=60|bx=380,400,420,440|by=60,60,60,60|bd=3,3,3,3|long=316:41:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=40|bx=440,460|by=40,40|bd=3,3|long=116:41:36:000000
+ ||| 
+name=ihor|opponent=andriy|x=460|y=60|bx=400,420,440,460|by=60,60,60,60|bd=3,3,3,3|long=316:41:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=40|bx=460,480|by=40,40|bd=3,3|long=116:41:38:000000
+ ||| 
+name=ihor|opponent=andriy|x=480|y=60|bx=420,440,460,480|by=60,60,60,60|bd=3,3,3,3|long=316:41:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=40|bx=480,500|by=40,40|bd=3,3|long=116:41:40:000000
+ ||| 
+name=ihor|opponent=andriy|x=500|y=60|bx=440,460,480,500|by=60,60,60,60|bd=3,3,3,3|long=316:41:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=40|bx=500,520|by=40,40|bd=3,3|long=116:41:42:000000
+ ||| 
+name=ihor|opponent=andriy|x=520|y=60|bx=460,480,500,520|by=60,60,60,60|bd=3,3,3,3|long=316:41:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=40|bx=520,540|by=40,40|bd=3,3|long=116:41:44:000000
+ ||| 
+name=ihor|opponent=andriy|x=540|y=60|bx=480,500,520,540|by=60,60,60,60|bd=3,3,3,3|long=316:41:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=40|bx=540,560|by=40,40|bd=3,3|long=116:41:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=560|y=60|bx=500,520,540,560|by=60,60,60,60|bd=3,3,3,3|long=316:41:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=40|bx=560,580|by=40,40|bd=3,3|long=116:41:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=580|y=60|bx=520,540,560,580|by=60,60,60,60|bd=3,3,3,3|long=316:41:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=40|bx=580,600|by=40,40|bd=3,3|long=116:41:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=600|y=60|bx=540,560,580,600|by=60,60,60,60|bd=3,3,3,3|long=316:41:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=40|bx=600,620|by=40,40|bd=3,3|long=116:41:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=620|y=60|bx=560,580,600,620|by=60,60,60,60|bd=3,3,3,3|long=316:41:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=40|bx=620,640|by=40,40|bd=3,3|long=116:41:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=640|y=60|bx=580,600,620,640|by=60,60,60,60|bd=3,3,3,3|long=316:41:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=40|bx=640,660|by=40,40|bd=3,3|long=116:41:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=660|y=60|bx=600,620,640,660|by=60,60,60,60|bd=3,3,3,3|long=316:41:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=40|bx=660,680|by=40,40|bd=3,3|long=116:41:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=680|y=60|bx=620,640,660,680|by=60,60,60,60|bd=3,3,3,3|long=316:41:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=40|bx=680,700|by=40,40|bd=3,3|long=116:42:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=700|y=60|bx=640,660,680,700|by=60,60,60,60|bd=3,3,3,3|long=316:42:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=40|bx=700,720|by=40,40|bd=3,3|long=116:42:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=720|y=60|bx=660,680,700,720|by=60,60,60,60|bd=3,3,3,3|long=316:42:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=40|bx=720,740|by=40,40|bd=3,3|long=116:42:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=740|y=60|bx=680,700,720,740|by=60,60,60,60|bd=3,3,3,3|long=316:42:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=40|bx=740,760|by=40,40|bd=3,3|long=116:42:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=760|y=60|bx=700,720,740,760|by=60,60,60,60|bd=3,3,3,3|long=316:42:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=40|bx=760,780|by=40,40|bd=3,3|long=116:42:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=780|y=60|bx=720,740,760,780|by=60,60,60,60|bd=3,3,3,3|long=316:42:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=40|bx=780,0|by=40,40|bd=3,3|long=116:42:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=0|y=60|bx=740,760,780,0|by=60,60,60,60|bd=3,3,3,3|long=316:42:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=40|bx=0,20|by=40,40|bd=3,3|long=116:42:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=20|y=60|bx=760,780,0,20|by=60,60,60,60|bd=3,3,3,3|long=316:42:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=40|bx=20,40|by=40,40|bd=3,3|long=116:42:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=60|bx=780,0,20,40|by=60,60,60,60|bd=3,3,3,3|long=316:42:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=40|bx=40,60|by=40,40|bd=3,3|long=116:42:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=60|bx=0,20,40,60|by=60,60,60,60|bd=3,3,3,3|long=316:42:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=40|bx=60,80|by=40,40|bd=3,3|long=116:42:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=60|bx=20,40,60,80|by=60,60,60,60|bd=3,3,3,3|long=316:42:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=40|bx=80,100|by=40,40|bd=3,3|long=116:42:20:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=60|bx=40,60,80,100|by=60,60,60,60|bd=3,3,3,3|long=316:42:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=40|bx=100,120|by=40,40|bd=3,3|long=116:42:22:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=60|bx=60,80,100,120|by=60,60,60,60|bd=3,3,3,3|long=316:42:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=40|bx=120,140|by=40,40|bd=3,3|long=116:42:24:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=60|bx=80,100,120,140|by=60,60,60,60|bd=3,3,3,3|long=316:42:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=40|bx=140,160|by=40,40|bd=3,3|long=116:42:26:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=60|bx=100,120,140,160|by=60,60,60,60|bd=3,3,3,3|long=316:42:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=40|bx=160,180|by=40,40|bd=3,3|long=116:42:28:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=60|bx=120,140,160,180|by=60,60,60,60|bd=3,3,3,3|long=316:42:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=40|bx=180,200|by=40,40|bd=3,3|long=116:42:30:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=60|bx=140,160,180,200|by=60,60,60,60|bd=3,3,3,3|long=316:42:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=40|bx=200,220|by=40,40|bd=3,3|long=116:42:32:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=60|bx=160,180,200,220|by=60,60,60,60|bd=3,3,3,3|long=316:42:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=40|bx=220,240|by=40,40|bd=3,3|long=116:42:34:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=60|bx=180,200,220,240|by=60,60,60,60|bd=3,3,3,3|long=316:42:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=40|bx=240,260|by=40,40|bd=3,3|long=116:42:36:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=60|bx=200,220,240,260|by=60,60,60,60|bd=3,3,3,3|long=316:42:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=40|bx=260,280|by=40,40|bd=3,3|long=116:42:38:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=60|bx=220,240,260,280|by=60,60,60,60|bd=3,3,3,3|long=316:42:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=40|bx=280,300|by=40,40|bd=3,3|long=116:42:40:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=60|bx=240,260,280,300|by=60,60,60,60|bd=3,3,3,3|long=316:42:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=40|bx=300,320|by=40,40|bd=3,3|long=116:42:42:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=60|bx=260,280,300,320|by=60,60,60,60|bd=3,3,3,3|long=316:42:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=40|bx=320,340|by=40,40|bd=3,3|long=116:42:44:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=60|bx=280,300,320,340|by=60,60,60,60|bd=3,3,3,3|long=316:42:44:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=40|bx=340,360|by=40,40|bd=3,3|long=116:42:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=60|bx=300,320,340,360|by=60,60,60,60|bd=3,3,3,3|long=316:42:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=40|bx=360,380|by=40,40|bd=3,3|long=116:42:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=380|y=60|bx=320,340,360,380|by=60,60,60,60|bd=3,3,3,3|long=316:42:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=40|bx=380,400|by=40,40|bd=3,3|long=116:42:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=400|y=60|bx=340,360,380,400|by=60,60,60,60|bd=3,3,3,3|long=316:42:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=40|bx=400,420|by=40,40|bd=3,3|long=116:42:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=40|bx=420,440|by=40,40|bd=3,3|long=116:42:54:000000
+ ||| 
+19:06:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=80|bx=220,220,220,220|by=20,40,60,80|bd=0,0,0,0|long=319:55:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=100|bx=220,220,220,220|by=40,60,80,100|bd=0,0,0,0|long=319:55:07:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=120|bx=220,220,220,220|by=60,80,100,120|bd=0,0,0,0|long=319:55:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=140|bx=220,220,220,220|by=80,100,120,140|bd=0,0,0,0|long=319:55:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=160|bx=220,220,220,220|by=100,120,140,160|bd=0,0,0,0|long=319:55:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=80|bx=0,20,40,60|by=80,80,80,80|bd=3,3,3,3|long=320:01:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=80|bx=20,40,60,80|by=80,80,80,80|bd=3,3,3,3|long=320:01:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=100|bx=40,60,80,80|by=80,80,80,100|bd=3,3,3,0|long=320:01:11:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=100|bx=60,80,80,60|by=80,80,100,100|bd=3,3,0,1|long=320:01:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=100|bx=60,80,80,60,40|by=80,80,100,100,100|bd=3,3,0,1,1|long=420:01:13:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=100|bx=80,80,60,40,20|by=80,100,100,100,100|bd=3,0,1,1,1|long=420:01:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=80|bx=80,60,40,20,20|by=100,100,100,100,80|bd=0,1,1,1,2|long=420:01:15:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=60|bx=60,40,20,20,20|by=100,100,100,80,60|bd=1,1,1,2,2|long=420:01:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=40|bx=660,680,700|by=40,40,40|bd=3,3,3|long=220:42:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=40|bx=680,700,720|by=40,40,40|bd=3,3,3|long=220:42:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=40|bx=700,720,740|by=40,40,40|bd=3,3,3|long=220:42:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=40|bx=720,740,760|by=40,40,40|bd=3,3,3|long=220:42:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=40|bx=740,760,780|by=40,40,40|bd=3,3,3|long=220:42:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=40|bx=760,780,0|by=40,40,40|bd=3,3,3|long=220:42:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=40|bx=780,0,20|by=40,40,40|bd=3,3,3|long=220:43:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=40|bx=0,20,40|by=40,40,40|bd=3,3,3|long=220:43:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=40|bx=20,40,60|by=40,40,40|bd=3,3,3|long=220:43:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=120:51:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=60|bx=100,100,100|by=20,40,60|bd=0,0,0|long=220:51:37:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=80|bx=100,100,100|by=40,60,80|bd=0,0,0|long=220:51:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=100|bx=100,100,100|by=60,80,100|bd=0,0,0|long=220:51:39:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=100|bx=100,100,120|by=80,100,100|bd=0,0,3|long=220:51:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=100|bx=100,120,140|by=100,100,100|bd=0,3,3|long=220:51:41:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=40|bx=40,40|by=20,40|bd=0,0|long=120:52:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=60|bx=40,40|by=40,60|bd=0,0|long=120:52:07:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=80|bx=40,40|by=60,80|bd=0,0|long=120:52:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=80|bx=40,40,60|by=60,80,80|bd=0,0,3|long=220:52:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=80|bx=40,60,80|by=80,80,80|bd=0,3,3|long=220:52:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=80|bx=60,80,100|by=80,80,80|bd=3,3,3|long=220:52:11:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=80|bx=80,100,120|by=80,80,80|bd=3,3,3|long=220:52:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=120:53:15:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=120:53:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=120:53:17:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=120:53:19:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=120:53:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=120:53:21:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=120:53:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=120:53:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=120:53:35:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=120:53:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=120:53:37:000000
+ ||| 
+15:06:35:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=100:23:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=100:23:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=100:23:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=100:23:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=100:23:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=100:23:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=100:23:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=100:23:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=100:23:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=100:23:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=0|bx=360,380|by=0,0|bd=3,3|long=100:24:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=0|bx=380,400|by=0,0|bd=3,3|long=100:24:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=0|bx=400,420|by=0,0|bd=3,3|long=100:24:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=0|bx=420,440|by=0,0|bd=3,3|long=100:24:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=100:24:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=100:24:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=100:24:03:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=500,520|by=0,0|bd=3,3|long=100:24:03:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=0|bx=520,540|by=0,0|bd=3,3|long=100:24:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=0|bx=540,560|by=0,0|bd=3,3|long=100:24:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=0|bx=560,580|by=0,0|bd=3,3|long=100:24:05:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=100:34:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=100:34:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=100:34:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=100:34:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=0|bx=360,380|by=0,0|bd=3,3|long=100:34:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=0|bx=380,400|by=0,0|bd=3,3|long=100:34:11:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=0|bx=400,420|by=0,0|bd=3,3|long=100:34:11:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=0|bx=420,440|by=0,0|bd=3,3|long=100:34:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=100:34:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=100:34:13:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=100:34:13:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=500,520|by=0,0|bd=3,3|long=100:34:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=0|bx=520,540|by=0,0|bd=3,3|long=100:34:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=0|bx=540,560|by=0,0|bd=3,3|long=100:34:15:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=0|bx=560,580|by=0,0|bd=3,3|long=100:34:15:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=0|bx=580,600|by=0,0|bd=3,3|long=100:34:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=0|bx=600,620|by=0,0|bd=3,3|long=100:34:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=0|bx=620,640|by=0,0|bd=3,3|long=100:34:17:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=0|bx=640,660|by=0,0|bd=3,3|long=100:34:17:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=0|bx=660,680|by=0,0|bd=3,3|long=100:34:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=0|bx=680,700|by=0,0|bd=3,3|long=100:34:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=0|bx=700,720|by=0,0|bd=3,3|long=100:34:19:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=0|bx=720,740|by=0,0|bd=3,3|long=100:34:19:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=0|bx=740,760|by=0,0|bd=3,3|long=100:34:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=0|bx=760,780|by=0,0|bd=3,3|long=100:34:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=0|bx=780,0|by=0,0|bd=3,3|long=100:34:21:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=0|bx=0,20|by=0,0|bd=3,3|long=100:34:21:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=100:34:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=100:34:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=100:34:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=100:34:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=100:34:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=100:34:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=100:34:25:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=100:34:25:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=100:34:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=100:34:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=100:34:27:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=100:34:27:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=100:34:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=100:34:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=100:34:29:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=100:34:29:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=100:34:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=0|bx=360,380|by=0,0|bd=3,3|long=100:34:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=0|bx=380,400|by=0,0|bd=3,3|long=100:34:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=0|bx=400,420|by=0,0|bd=3,3|long=100:34:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=0|bx=420,440|by=0,0|bd=3,3|long=100:34:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=100:34:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=100:34:33:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=100:35:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=500,520|by=0,0|bd=3,3|long=100:35:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=0|bx=520,540|by=0,0|bd=3,3|long=100:35:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=0|bx=540,560|by=0,0|bd=3,3|long=100:35:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=0|bx=560,580|by=0,0|bd=3,3|long=100:35:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=0|bx=580,600|by=0,0|bd=3,3|long=100:35:25:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=0|bx=600,620|by=0,0|bd=3,3|long=100:35:25:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=0|bx=620,640|by=0,0|bd=3,3|long=100:35:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=0|bx=640,660|by=0,0|bd=3,3|long=100:35:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=0|bx=660,680|by=0,0|bd=3,3|long=100:35:27:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=20|bx=680,680|by=0,20|bd=3,0|long=100:35:27:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=40|bx=680,680|by=20,40|bd=0,0|long=100:35:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=60|bx=680,680|by=40,60|bd=0,0|long=100:35:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=60|bx=680,660|by=60,60|bd=0,1|long=100:35:29:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=60|bx=660,640|by=60,60|bd=1,1|long=100:35:29:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=60|bx=640,620|by=60,60|bd=1,1|long=100:35:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=60|bx=620,600|by=60,60|bd=1,1|long=100:35:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=60|bx=600,580|by=60,60|bd=1,1|long=100:35:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=60|bx=580,560|by=60,60|bd=1,1|long=100:35:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=60|bx=560,540|by=60,60|bd=1,1|long=100:35:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=60|bx=540,520|by=60,60|bd=1,1|long=100:35:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=60|bx=520,500|by=60,60|bd=1,1|long=100:35:33:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=60|bx=500,480|by=60,60|bd=1,1|long=100:35:33:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=60|bx=480,460|by=60,60|bd=1,1|long=100:35:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=60|bx=460,440|by=60,60|bd=1,1|long=100:35:34:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=80|bx=440,440|by=60,80|bd=1,0|long=100:35:35:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=80|bx=440,420|by=80,80|bd=0,1|long=100:35:35:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=80|bx=420,400|by=80,80|bd=1,1|long=100:35:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=80|bx=400,380|by=80,80|bd=1,1|long=100:35:36:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=60|bx=380,380|by=80,60|bd=1,2|long=100:35:37:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=40|bx=380,380|by=60,40|bd=2,2|long=100:35:37:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=20|bx=380,380|by=40,20|bd=2,2|long=100:35:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=20|bx=380,400|by=20,20|bd=2,3|long=100:35:38:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=20|bx=400,420|by=20,20|bd=3,3|long=100:35:39:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=20|bx=420,440|by=20,20|bd=3,3|long=100:35:39:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=20|bx=440,460|by=20,20|bd=3,3|long=100:35:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=20|bx=460,480|by=20,20|bd=3,3|long=100:35:40:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=20|bx=480,500|by=20,20|bd=3,3|long=100:35:41:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=20|bx=500,520|by=20,20|bd=3,3|long=100:35:41:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=20|bx=520,540|by=20,20|bd=3,3|long=100:35:42:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=0|bx=0,20|by=0,0|bd=3,3|long=100:44:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=100:44:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=100:44:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=100:44:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=100:44:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=100:44:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=100:44:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=100:44:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=100:45:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=100:45:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=100:45:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=0|bx=0,20|by=0,0|bd=3,3|long=116:53:45:000000
+ ||| 
+name=andriy|opponent=ihor|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=116:53:45:000000
+ ||| 
+name=ihor|opponent=andriy|x=20|y=0|bx=0,20|by=0,0|bd=3,3|long=116:53:45:000000
+ ||| 
+name=andriy|opponent=ihor|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=116:53:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=0|bx=20,40|by=0,0|bd=3,3|long=116:53:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=116:53:46:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=0|bx=40,60|by=0,0|bd=3,3|long=116:53:46:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=116:53:47:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=0|bx=60,80|by=0,0|bd=3,3|long=116:53:47:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=116:53:47:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=0|bx=80,100|by=0,0|bd=3,3|long=116:53:47:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=116:53:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=0|bx=100,120|by=0,0|bd=3,3|long=116:53:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=116:53:48:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=0|bx=120,140|by=0,0|bd=3,3|long=116:53:48:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=116:53:49:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=0|bx=140,160|by=0,0|bd=3,3|long=116:53:49:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=116:53:49:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=0|bx=160,180|by=0,0|bd=3,3|long=116:53:49:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=116:53:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=0|bx=180,200|by=0,0|bd=3,3|long=116:53:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=116:53:50:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=0|bx=200,220|by=0,0|bd=3,3|long=116:53:50:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=116:53:51:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=0|bx=220,240|by=0,0|bd=3,3|long=116:53:51:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=116:53:51:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=0|bx=240,260|by=0,0|bd=3,3|long=116:53:51:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=116:53:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=0|bx=260,280|by=0,0|bd=3,3|long=116:53:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:53:52:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=0|bx=280,300|by=0,0|bd=3,3|long=116:53:52:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:53:53:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=0|bx=300,320|by=0,0|bd=3,3|long=116:53:53:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=116:53:53:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=0|bx=320,340|by=0,0|bd=3,3|long=116:53:53:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=0|bx=360,380|by=0,0|bd=3,3|long=116:53:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=0|bx=340,360|by=0,0|bd=3,3|long=116:53:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=0|bx=380,400|by=0,0|bd=3,3|long=116:53:54:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=20|bx=360,360|by=0,20|bd=3,0|long=116:53:54:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=0|bx=400,420|by=0,0|bd=3,3|long=116:53:55:000000
+ ||| 
+name=ihor|opponent=andriy|x=360|y=40|bx=360,360|by=20,40|bd=0,0|long=116:53:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=0|bx=420,440|by=0,0|bd=3,3|long=116:53:55:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=40|bx=360,340|by=40,40|bd=0,1|long=116:53:55:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=0|bx=440,460|by=0,0|bd=3,3|long=116:53:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=40|bx=360,340,320|by=40,40,40|bd=0,1,1|long=216:53:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=0|bx=460,480|by=0,0|bd=3,3|long=116:53:56:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=40|bx=340,320,300|by=40,40,40|bd=1,1,1|long=216:53:56:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=0|bx=480,500|by=0,0|bd=3,3|long=116:53:57:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=40|bx=320,300,280|by=40,40,40|bd=1,1,1|long=216:53:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=0|bx=500,520|by=0,0|bd=3,3|long=116:53:57:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=40|bx=300,280,260|by=40,40,40|bd=1,1,1|long=216:53:57:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=0|bx=520,540|by=0,0|bd=3,3|long=116:53:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=40|bx=280,260,240|by=40,40,40|bd=1,1,1|long=216:53:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=20|bx=540,540|by=0,20|bd=3,0|long=116:53:58:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=40|bx=260,240,220|by=40,40,40|bd=1,1,1|long=216:53:58:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=20|bx=540,520|by=20,20|bd=0,1|long=116:53:59:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=40|bx=240,220,200|by=40,40,40|bd=1,1,1|long=216:53:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=20|bx=540,520,500|by=20,20,20|bd=0,1,1|long=216:53:59:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=40|bx=220,200,180|by=40,40,40|bd=1,1,1|long=216:53:59:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=20|bx=520,500,480|by=20,20,20|bd=1,1,1|long=216:54:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=40|bx=220,200,180,160|by=40,40,40,40|bd=1,1,1,1|long=316:54:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=20|bx=500,480,460|by=20,20,20|bd=1,1,1|long=216:54:00:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=40|bx=200,180,160,140|by=40,40,40,40|bd=1,1,1,1|long=316:54:00:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=20|bx=480,460,440|by=20,20,20|bd=1,1,1|long=216:54:01:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=40|bx=180,160,140,120|by=40,40,40,40|bd=1,1,1,1|long=316:54:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=40|bx=460,440,440|by=20,20,40|bd=1,1,0|long=216:54:01:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=40|bx=160,140,120,100|by=40,40,40,40|bd=1,1,1,1|long=316:54:01:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=40|bx=440,440,460|by=20,40,40|bd=1,0,3|long=216:54:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=40|bx=140,120,100,80|by=40,40,40,40|bd=1,1,1,1|long=316:54:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=40|bx=440,460,480|by=40,40,40|bd=0,3,3|long=216:54:02:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=40|bx=120,100,80,60|by=40,40,40,40|bd=1,1,1,1|long=316:54:02:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=60|bx=460,480,480|by=40,40,60|bd=3,3,0|long=216:54:03:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=40|bx=100,80,60,40|by=40,40,40,40|bd=1,1,1,1|long=316:54:03:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=60|bx=480,480,460|by=40,60,60|bd=3,0,1|long=216:54:03:000000
+ ||| 
+name=ihor|opponent=andriy|x=20|y=40|bx=80,60,40,20|by=40,40,40,40|bd=1,1,1,1|long=316:54:03:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=60|bx=480,460,440|by=60,60,60|bd=0,1,1|long=216:54:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=40|y=40|bx=60,40,20,40|by=40,40,40,40|bd=1,1,1,3|long=216:54:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=60|bx=460,440,420|by=60,60,60|bd=1,1,1|long=216:54:04:000000
+ ||| 
+name=ihor|opponent=andriy|x=60|y=40|bx=40,20,40,60|by=40,40,40,40|bd=1,1,3,3|long=216:54:04:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=60|bx=440,420,400|by=60,60,60|bd=1,1,1|long=116:54:05:000000
+ ||| 
+name=ihor|opponent=andriy|x=80|y=40|bx=20,40,60,80|by=40,40,40,40|bd=1,3,3,3|long=216:54:05:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=60|bx=420,400,380|by=60,60,60|bd=1,1,1|long=116:54:05:000000
+ ||| 
+name=ihor|opponent=andriy|x=100|y=40|bx=40,60,80,100|by=40,40,40,40|bd=3,3,3,3|long=216:54:05:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=60|bx=400,380,360|by=60,60,60|bd=1,1,1|long=116:54:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=120|y=40|bx=60,80,100,120|by=40,40,40,40|bd=3,3,3,3|long=216:54:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=60|bx=380,360,340|by=60,60,60|bd=1,1,1|long=116:54:06:000000
+ ||| 
+name=ihor|opponent=andriy|x=140|y=40|bx=80,100,120,140|by=40,40,40,40|bd=3,3,3,3|long=216:54:06:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=60|bx=360,340,320|by=60,60,60|bd=1,1,1|long=116:54:07:000000
+ ||| 
+name=ihor|opponent=andriy|x=160|y=40|bx=100,120,140,160|by=40,40,40,40|bd=3,3,3,3|long=216:54:07:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=60|bx=340,320,300|by=60,60,60|bd=1,1,1|long=116:54:07:000000
+ ||| 
+name=ihor|opponent=andriy|x=180|y=40|bx=120,140,160,180|by=40,40,40,40|bd=3,3,3,3|long=216:54:07:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=60|bx=320,300,280|by=60,60,60|bd=1,1,1|long=116:54:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=200|y=40|bx=140,160,180,200|by=40,40,40,40|bd=3,3,3,3|long=216:54:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=60|bx=300,280,260|by=60,60,60|bd=1,1,1|long=116:54:08:000000
+ ||| 
+name=ihor|opponent=andriy|x=220|y=40|bx=160,180,200,220|by=40,40,40,40|bd=3,3,3,3|long=216:54:08:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=60|bx=280,260,240|by=60,60,60|bd=1,1,1|long=116:54:09:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=40|bx=180,200,220,240|by=40,40,40,40|bd=3,3,3,3|long=216:54:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=60|bx=260,240,220|by=60,60,60|bd=1,1,1|long=116:54:09:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=40|bx=200,220,240,260|by=40,40,40,40|bd=3,3,3,3|long=216:54:09:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=60|bx=240,220,200|by=60,60,60|bd=1,1,1|long=116:54:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=40|bx=220,240,260,280|by=40,40,40,40|bd=3,3,3,3|long=216:54:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=60|bx=220,200,180|by=60,60,60|bd=1,1,1|long=216:54:10:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=40|bx=240,260,280,300|by=40,40,40,40|bd=3,3,3,3|long=216:54:10:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=60|bx=200,180,160|by=60,60,60|bd=1,1,1|long=216:54:11:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=60|bx=260,280,300,300|by=40,40,40,60|bd=3,3,3,0|long=216:54:11:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=60|bx=180,160,140|by=60,60,60|bd=1,1,1|long=216:54:11:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=80|bx=280,300,300,300|by=40,40,60,80|bd=3,3,0,0|long=216:54:11:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=60|bx=160,140,120|by=60,60,60|bd=1,1,1|long=216:54:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=100|bx=300,300,300,300|by=40,60,80,100|bd=3,0,0,0|long=216:54:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=60|bx=140,120,100|by=60,60,60|bd=1,1,1|long=216:54:12:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=120|bx=300,300,300,300|by=60,80,100,120|bd=0,0,0,0|long=316:54:12:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=60|bx=120,100,80|by=60,60,60|bd=1,1,1|long=216:54:13:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=140|bx=300,300,300,300|by=80,100,120,140|bd=0,0,0,0|long=316:54:13:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=80|bx=100,80,80|by=60,60,80|bd=1,1,0|long=216:54:13:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=160|bx=300,300,300,300|by=100,120,140,160|bd=0,0,0,0|long=316:54:13:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=100|bx=80,80,80|by=60,80,100|bd=1,0,0|long=216:54:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=180|bx=300,300,300,300|by=120,140,160,180|bd=0,0,0,0|long=316:54:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=80|y=120|bx=80,80,80|by=80,100,120|bd=0,0,0|long=216:54:14:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=200|bx=300,300,300,300|by=140,160,180,200|bd=0,0,0,0|long=316:54:14:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=120|bx=80,80,80,100|by=80,100,120,120|bd=0,0,0,3|long=316:54:15:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=220|bx=300,300,300,300|by=160,180,200,220|bd=0,0,0,0|long=316:54:15:000000
+ ||| 
+name=andriy|opponent=ihor|x=100|y=100|bx=80,80,100,100|by=100,120,120,100|bd=0,0,3,2|long=316:54:15:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=240|bx=300,300,300,300|by=180,200,220,240|bd=0,0,0,0|long=316:54:15:000000
+ ||| 
+name=andriy|opponent=ihor|x=120|y=100|bx=80,100,100,120|by=120,120,100,100|bd=0,3,2,3|long=316:54:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=260|bx=300,300,300,300|by=200,220,240,260|bd=0,0,0,0|long=316:54:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=140|y=100|bx=100,100,120,140|by=120,100,100,100|bd=3,2,3,3|long=316:54:16:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=260|bx=300,300,300,320|by=220,240,260,260|bd=0,0,0,3|long=316:54:16:000000
+ ||| 
+name=andriy|opponent=ihor|x=160|y=100|bx=100,100,120,140,160|by=120,100,100,100,100|bd=3,2,3,3,3|long=416:54:17:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=260|bx=300,300,320,340|by=240,260,260,260|bd=0,0,3,3|long=316:54:17:000000
+ ||| 
+name=andriy|opponent=ihor|x=180|y=100|bx=100,120,140,160,180|by=100,100,100,100,100|bd=2,3,3,3,3|long=416:54:17:000000
+ ||| 
+name=ihor|opponent=andriy|x=340|y=240|bx=300,320,340,340|by=260,260,260,240|bd=0,3,3,2|long=316:54:17:000000
+ ||| 
+name=andriy|opponent=ihor|x=200|y=100|bx=120,140,160,180,200|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=320|y=240|bx=320,340,340,320|by=260,260,240,240|bd=3,3,2,1|long=316:54:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=220|y=100|bx=140,160,180,200,220|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:18:000000
+ ||| 
+name=ihor|opponent=andriy|x=300|y=240|bx=340,340,320,300|by=260,240,240,240|bd=3,2,1,1|long=316:54:18:000000
+ ||| 
+name=andriy|opponent=ihor|x=240|y=100|bx=160,180,200,220,240|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:19:000000
+ ||| 
+name=ihor|opponent=andriy|x=280|y=240|bx=340,320,300,280|by=240,240,240,240|bd=2,1,1,1|long=316:54:19:000000
+ ||| 
+name=andriy|opponent=ihor|x=260|y=100|bx=180,200,220,240,260|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:19:000000
+ ||| 
+name=ihor|opponent=andriy|x=260|y=240|bx=320,300,280,260|by=240,240,240,240|bd=1,1,1,1|long=316:54:19:000000
+ ||| 
+name=andriy|opponent=ihor|x=280|y=100|bx=200,220,240,260,280|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:20:000000
+ ||| 
+name=ihor|opponent=andriy|x=240|y=240|bx=300,280,260,240|by=240,240,240,240|bd=1,1,1,1|long=316:54:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=300|y=100|bx=220,240,260,280,300|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:20:000000
+ ||| 
+name=andriy|opponent=ihor|x=320|y=100|bx=240,260,280,300,320|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:21:000000
+ ||| 
+name=andriy|opponent=ihor|x=340|y=100|bx=260,280,300,320,340|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:21:000000
+ ||| 
+name=andriy|opponent=ihor|x=360|y=100|bx=280,300,320,340,360|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=380|y=100|bx=300,320,340,360,380|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:22:000000
+ ||| 
+name=andriy|opponent=ihor|x=400|y=100|bx=320,340,360,380,400|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=420|y=100|bx=340,360,380,400,420|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:23:000000
+ ||| 
+name=andriy|opponent=ihor|x=440|y=100|bx=360,380,400,420,440|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=460|y=100|bx=380,400,420,440,460|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:24:000000
+ ||| 
+name=andriy|opponent=ihor|x=480|y=100|bx=400,420,440,460,480|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:25:000000
+ ||| 
+name=andriy|opponent=ihor|x=500|y=100|bx=420,440,460,480,500|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:25:000000
+ ||| 
+name=andriy|opponent=ihor|x=520|y=100|bx=440,460,480,500,520|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=540|y=100|bx=460,480,500,520,540|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:26:000000
+ ||| 
+name=andriy|opponent=ihor|x=560|y=100|bx=480,500,520,540,560|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:27:000000
+ ||| 
+name=andriy|opponent=ihor|x=580|y=100|bx=500,520,540,560,580|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:27:000000
+ ||| 
+name=andriy|opponent=ihor|x=600|y=100|bx=520,540,560,580,600|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=620|y=100|bx=540,560,580,600,620|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:28:000000
+ ||| 
+name=andriy|opponent=ihor|x=640|y=100|bx=560,580,600,620,640|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:29:000000
+ ||| 
+name=andriy|opponent=ihor|x=660|y=100|bx=580,600,620,640,660|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:29:000000
+ ||| 
+name=andriy|opponent=ihor|x=680|y=100|bx=600,620,640,660,680|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=700|y=100|bx=620,640,660,680,700|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:30:000000
+ ||| 
+name=andriy|opponent=ihor|x=720|y=100|bx=640,660,680,700,720|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=740|y=100|bx=660,680,700,720,740|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:31:000000
+ ||| 
+name=andriy|opponent=ihor|x=760|y=100|bx=680,700,720,740,760|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=780|y=100|bx=700,720,740,760,780|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:32:000000
+ ||| 
+name=andriy|opponent=ihor|x=0|y=100|bx=720,740,760,780,0|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:33:000000
+ ||| 
+name=andriy|opponent=ihor|x=20|y=100|bx=740,760,780,0,20|by=100,100,100,100,100|bd=3,3,3,3,3|long=416:54:33:000000
+ ||| 
