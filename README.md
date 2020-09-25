@@ -14,4 +14,4 @@
 
 ## SiteByTempl3 adaptive
 
-[Перейти на сайт](http://https://mrakorus.github.io/SiteByTempl3/)
+[Перейти на сайт](https://mrakorus.github.io/SiteByTempl3/)
