@@ -8,7 +8,10 @@
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl/)
 
-## SiteByTempl2_corporate-landing
+## SiteByTempl2_corporate-landing adaptive
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl2_corporate-landing/)
 
+## SiteByTempl3 adaptive
+
+[Перейти на сайт](http://https://mrakorus.github.io/SiteByTempl3/)
