@@ -12,6 +12,6 @@
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl2_corporate-landing/)
 
-## Сайта-визитка компании (шаблон, adaptive)
+## Сайт-визитка компании (шаблон, adaptive)
 
 [Перейти на сайт](https://mrakorus.github.io/SiteByTempl3/)
