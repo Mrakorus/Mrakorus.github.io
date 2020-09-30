@@ -1,17 +1,17 @@
 # Mrakorus.github.io
 
-## Игра "Червичок"
+## Игра "Червичок" (сетевой режим в разработке)
 
 [Перейти на сайт](http://Mrakorus.github.io/Game-Worm/ "Перейти")
 
-## Простенький сайт
+## Простенький сайт (шаблон)
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl/)
 
-## Шаблон сайта-визитки (adaptive)
+## Сайт-визитка (шаблон, adaptive)
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl2_corporate-landing/)
 
-## Шаблон сайта-визитки компании (adaptive)
+## Сайта-визитка компании (шаблон, adaptive)
 
 [Перейти на сайт](https://mrakorus.github.io/SiteByTempl3/)
