@@ -10,7 +10,10 @@ body {
 
 button, 
 button:active, 
-button:focus {
+button:focus,
+input, 
+input:active, 
+input:focus {
     outline: none;
 }
 
@@ -40,6 +43,9 @@ section, .header {
 	flex-direction: column;
 	padding-top: 10%;
 	padding-bottom: 10%;
+}
+.header > a {
+	margin-top: 40px;
 }
 
 .header__title {
@@ -76,7 +82,6 @@ section, .header {
 .header__button {
 	width: 190px;
 	height: 50px;
-	margin-top: 40px;
 	font-size: 16px;
 	background-color: #ff6d6d;
 	color: #fff;
@@ -333,8 +338,9 @@ section, .header {
 	border-radius: 5px;
 	font-size: 16px;
 	font-weight: 400;
-	margin-left: 30px;
 	position: relative;
+	cursor: pointer;
+	margin-left: 30px;
 	margin-top: 50px;
 	margin-bottom: 40px;
 }
@@ -346,6 +352,7 @@ section, .header {
 	height: 40px;
 	display: block;
 	top: -70px;
+	cursor: default;
 }
 
 .send_form::after {

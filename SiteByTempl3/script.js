@@ -34,7 +34,17 @@ $(document).ready(function(){
         $('.modal__content').hide();
         $('.modal__thanks').fadeIn();
     });
-    
+
+    /* Scroll */
+    $('a[href^="#"').on('click', function() {
+
+        let href = $(this).attr('href');
+
+        $('html, body').animate({
+            scrollTop: $(href).offset().top
+        });
+        return false;
+    });
 
     
     

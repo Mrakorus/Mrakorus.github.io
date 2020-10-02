@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  // let video = document.querySelector('.bg__video-content');
+  /* Video */
   let video = $('.bg__video-content');
   $('.header__play').click( () => {
     $(".header").hide(500);
@@ -12,5 +12,16 @@ $(document).ready(function() {
     video[0].pause();
     $(".header").show();
     $('.bg__video').hide(500);
+  });
+
+  /* Scroll */
+  $('a[href^="#"').on('click', function() {
+
+    let href = $(this).attr('href');
+
+    $('html, body').animate({
+        scrollTop: $(href).offset().top
+    });
+    return false;
   });
 });
