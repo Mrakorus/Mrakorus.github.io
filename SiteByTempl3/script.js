@@ -20,6 +20,7 @@ $(document).ready(function(){
         $('#currentPage').text('0' + (+currentSlide + 1));
     });
 
+    /* Modal */
     $('.header__contacts-phone').click( () => {
         $('.modal__thanks').hide();
         $('.modal').fadeIn();
@@ -28,6 +29,14 @@ $(document).ready(function(){
     $('.modal__close').click( (e) => {
         $('.modal__thanks').hide();
         $('.modal').fadeOut();
+    });
+    $('.modal').click( (e) => {
+        // console.log(e.target, $('.modal')[0])
+        if (e.target ===  $('.modal')[0]){
+            $('.modal__thanks').hide();
+            $('.modal').fadeOut();
+        }
+        
     });
     $('.modal__submit').click((e) => {
         e.preventDefault();

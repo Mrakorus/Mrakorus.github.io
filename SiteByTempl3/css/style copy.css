@@ -93,6 +93,7 @@ ul {
 }
 
 .header__search {
+	display: none;
 	width: 65px;
 	height: 65px;
 	padding: 0;
@@ -126,7 +127,7 @@ ul {
 	justify-content: center;
 	align-items:center;
 	flex-direction: column;
-	transform: translate(35%, 100%);
+	transform: translate(40%, 100%);
 	right: 0;
 	bottom: 0;
 	z-index: 20;
@@ -645,10 +646,6 @@ ul {
 	font-weight: 600;
 }
 
-/* .modal__content-form input {
-	width: 100%;
-} */
-
 .modal__close {
 	position: absolute;
 	width: 15px;
@@ -661,14 +658,16 @@ ul {
 }
 
 .form__controll {
+	display: flex;
+	flex-direction: row;
 	margin-top: 10px;
 	margin-bottom: 30px;
 	border: 1px solid #dfe3e4;
 }
 
 .form__controll-img {
-	display: inline-block;
 	width: 50px;
+	min-width: 50px;
 	height: 50px;
 	text-align: center;
 	vertical-align: middle;
@@ -678,9 +677,8 @@ ul {
 }
 
 .form__controll input {
-	display: inline;
-	text-align: start;
-	vertical-align: middle;
+	display: block;
+	width: 100%;
 	padding: 17px;
 	margin-left: -4px;
 	border: none;
