@@ -16,7 +16,7 @@
 
 [Перейти на сайт](https://mrakorus.github.io/SiteByTempl3/)
 
-## Интернет-магазин (adaptive, движок ‒ самописный PHP, админка в разработке, Bootstrap, SCSS, jQuery)
+## Интернет-магазин (adaptive, движок ‒ самописный PHP + MySQL, админка в разработке, Bootstrap, SCSS, jQuery)
 
 [Перейти на сайт](http://giga-side.xyz)
 
