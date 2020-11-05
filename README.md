@@ -4,7 +4,7 @@
 
 [Перейти на сайт](http://Mrakorus.github.io/Game-Worm/ "Перейти")
 
-## Простенький сайт
+## Простенький лендинг
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl/)
 
