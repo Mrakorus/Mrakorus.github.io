@@ -4,15 +4,15 @@
 
 [Перейти на сайт](http://Mrakorus.github.io/Game-Worm/ "Перейти")
 
-## Простенький лендинг
+## Вёpcткa простого лендинга
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl/)
 
-## Лендинг (adaptive)
+## Вёpcткa лендинга (adaptive)
 
 [Перейти на сайт](http://Mrakorus.github.io/SiteByTempl2_corporate-landing/)
 
-## Сайт-визитка компании (adaptive, WP)
+## Вёpcткa сайта-визитки компании (adaptive, WP)
 
 [Перейти на сайт](https://mrakorus.github.io/SiteByTempl3/)
 
